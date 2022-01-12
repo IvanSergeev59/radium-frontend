@@ -1,0 +1,10 @@
+body {
+  margin: 0px;
+}
+
+.root {
+  margin: 0 auto;
+  background: #FFFFFF;
+  max-width: 1250px;
+  margin-top: 50px;
+}

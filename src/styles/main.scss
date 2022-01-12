@@ -1,0 +1,44 @@
+
+body {
+    margin: 0px;
+}
+.root {   
+    margin: 0 auto;
+    max-width: 500px;
+    background: #eeece9;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    text-align: center;
+    color: #4764b0;
+    margin-top: 40vh;
+    height: 25vh;
+}
+
+h2 {  
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+h2:hover {
+    color: #FF6F00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+
+h3 {   
+    margin: 0 auto;
+    width: 70%;
+    margin-top: 30px;
+}
+
+h3:hover {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #FF6F00;
+    cursor: pointer;
+}
+
+.hidden {
+     color: #eeece9;
+}
